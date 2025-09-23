@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luugi\\Desktop\\GitHubTesting\\DumbApp\\",
+  "WorkspaceRootPath": "D:\\Desktop\\Github_Testing\\DumbApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|c:\\users\\luugi\\desktop\\githubtesting\\dumbapp\\dumbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|d:\\desktop\\github_testing\\dumbapp\\dumbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|solutionrelative:dumbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|c:\\users\\luugi\\desktop\\githubtesting\\dumbapp\\dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|d:\\desktop\\github_testing\\dumbapp\\dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|solutionrelative:dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\luugi\\Desktop\\GitHubTesting\\DumbApp\\DumbApp\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DumbApp\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\luugi\\Desktop\\GitHubTesting\\DumbApp\\DumbApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml",
               "RelativeToolTip": "DumbApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-23T15:12:23.943Z",
@@ -36,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\luugi\\Desktop\\GitHubTesting\\DumbApp\\DumbApp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DumbApp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\luugi\\Desktop\\GitHubTesting\\DumbApp\\DumbApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "DumbApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T15:12:20.442Z",
               "EditorCaption": ""

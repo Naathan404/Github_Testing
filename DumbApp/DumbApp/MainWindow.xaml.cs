@@ -20,5 +20,10 @@ namespace DumbApp
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            textBlock.Text = "XamL Coffee";
+        }
     }
 }

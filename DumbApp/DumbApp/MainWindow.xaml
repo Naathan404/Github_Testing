@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock
+        <TextBlock x:Name="textBlock"
             Text="COFFE SHOP XOXO"
             FontSize="35"
             HorizontalAlignment="Center"
@@ -16,5 +16,11 @@
             FontStyle="Italic"
             Margin="0, 0, 0, 100"
             ></TextBlock>
+
+        <Button Content="Button"
+                FontSize="40"
+                Width="200" Height="60"
+                Margin="0, 150, 0, 0"
+                Click="Button_Click"> </Button>
     </Grid>
 </Window>
