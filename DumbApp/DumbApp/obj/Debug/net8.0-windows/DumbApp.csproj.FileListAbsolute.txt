@@ -19,3 +19,24 @@ D:\Desktop\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\refint\DumbAp
 D:\Desktop\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.pdb
 D:\Desktop\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.genruntimeconfig.cache
 D:\Desktop\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\ref\DumbApp.dll
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\bin\Debug\net8.0-windows\DumbApp.exe
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\bin\Debug\net8.0-windows\DumbApp.deps.json
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\bin\Debug\net8.0-windows\DumbApp.runtimeconfig.json
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\bin\Debug\net8.0-windows\DumbApp.dll
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\bin\Debug\net8.0-windows\DumbApp.pdb
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp_MarkupCompile.cache
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp_MarkupCompile.lref
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.g.resources
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.AssemblyInfoInputs.cache
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.AssemblyInfo.cs
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.csproj.CoreCompileInputs.cache
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.sourcelink.json
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.dll
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\refint\DumbApp.dll
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.pdb
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\DumbApp.genruntimeconfig.cache
+C:\Users\LE THANH NGHIA\Github_Testing\DumbApp\DumbApp\obj\Debug\net8.0-windows\ref\DumbApp.dll
