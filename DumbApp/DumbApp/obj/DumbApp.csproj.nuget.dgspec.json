@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {}
+    "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {
+    "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+        "projectUniqueName": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
         "projectName": "DumbApp",
-        "projectPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+        "projectPath": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
         "packagesPath": "C:\\Users\\LE THANH NGHIA\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
+        "outputPath": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
