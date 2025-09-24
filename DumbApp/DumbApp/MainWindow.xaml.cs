@@ -21,9 +21,19 @@ namespace DumbApp
             InitializeComponent();
         }
 
+        bool isFirstClick = true;
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            textBlock.Text = "XamL Coffee";
+            if (isFirstClick)
+            {
+                textBlock.Text = "XamL Coffee";
+                isFirstClick = false;
+            }
+            else
+            {                
+                textBlock.Text = "COFFEE SHOP XOXO";
+                isFirstClick = true;
+            }
         }
     }
 }
