@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+      "projectUniqueName": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
       "projectName": "DumbApp",
-      "projectPath": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+      "projectPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
       "packagesPath": "C:\\Users\\LE THANH NGHIA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LE THANH NGHIA\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
+      "outputPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
