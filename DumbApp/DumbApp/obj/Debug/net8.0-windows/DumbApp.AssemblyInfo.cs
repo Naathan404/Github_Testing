@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d90abf5a94326ba2a5a03c2e5b43ab7dc8c2b5f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c92f805cd47b7dfd287f3f84fba5143a435581e")]
+>>>>>>> 8f59bfbaec034f63fe2efa29e4e1646cc968b61f
 [assembly: System.Reflection.AssemblyProductAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
