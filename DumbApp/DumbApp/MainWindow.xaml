@@ -14,22 +14,34 @@
             VerticalAlignment="Center"
             FontWeight="UltraBold"
             FontStyle="Italic"
-            Margin="0, 0, 0, 100"
-            ></TextBlock>
+            Margin="0, 0, 0, 100">
+            
+        </TextBlock>
 
         <Button Content="Button"
-                FontSize="40"
-                Width="200" Height="60"
-                Margin="0, 150, 0, 0"
-                Click="Button_Click"> </Button>
+            FontSize="40"
+            Width="200" Height="60"
+            Margin="0, 150, 0, 0"
+            Click="Button_Click">
+            
+        </Button>
 
         <TextBlock  Text="9h đóng cửa"
-                    FontSize="20"
-                    HorizontalAlignment="Center"
-                    VerticalAlignment="Center"
-                    FontWeight="UltraBold"
-                    FontStyle="Italic"
-                    Margin="0, 0, 0, 300"
-    ></TextBlock>
+            FontSize="20"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontWeight="UltraBold"
+            FontStyle="Italic"
+            Margin="0, 0, 0, 300"
+        ></TextBlock>
+
+        <TextBlock  Text="new text"
+            FontSize="20"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontWeight="UltraBold"
+            FontStyle="Italic"
+            Margin="0, 0, 0, 240"
+        ></TextBlock>
     </Grid>
 </Window>

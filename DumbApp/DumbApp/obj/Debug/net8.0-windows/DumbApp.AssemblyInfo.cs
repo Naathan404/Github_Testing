@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748e4a9a9a2ad1accb1ebc2b5900e2ddd3ab0be8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c92f805cd47b7dfd287f3f84fba5143a435581e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DumbApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Desktop\\Github_Testing\\DumbApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|d:\\desktop\\github_testing\\dumbapp\\dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|solutionrelative:dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|d:\\desktop\\github_testing\\dumbapp\\dumbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|solutionrelative:dumbapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|d:\\desktop\\github_testing\\dumbapp\\dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C47FF4B-8846-4037-BA7C-6D7D63C65F23}|DumbApp\\DumbApp.csproj|solutionrelative:dumbapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DumbApp\\MainWindow.xaml",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "DumbApp\\MainWindow.xaml.cs",
