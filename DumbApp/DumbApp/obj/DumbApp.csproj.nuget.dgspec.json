@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
         "projectName": "DumbApp",
-        "projectPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
-        "packagesPath": "C:\\Users\\LE THANH NGHIA\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\DumbApp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Github_Testing\\DumbApp\\DumbApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LE THANH NGHIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,7 @@
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
