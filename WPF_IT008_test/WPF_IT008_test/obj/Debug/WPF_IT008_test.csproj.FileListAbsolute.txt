@@ -1,0 +1,16 @@
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\bin\Debug\WPF_IT008_test.exe.config
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\bin\Debug\WPF_IT008_test.exe
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\bin\Debug\WPF_IT008_test.pdb
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.csproj.AssemblyReference.cache
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\MainWindow.g.cs
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\App.g.cs
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test_MarkupCompile.cache
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test_MarkupCompile.lref
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\MainWindow.baml
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.g.resources
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.Properties.Resources.resources
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.csproj.GenerateResource.cache
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.csproj.CoreCompileInputs.cache
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.exe
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.pdb
+D:\IT\LTTQ\WPF_IT008_test\WPF_IT008_test\obj\Debug\WPF_IT008_test.exe.config
