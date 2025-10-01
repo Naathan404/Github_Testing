@@ -19,7 +19,11 @@
         </TextBlock>
 
         <Button Content="Button"
+<<<<<<< HEAD
             FontSize="40"
+=======
+            FontSize="45"
+>>>>>>> 55ccb653863b31fce26fb3fa3f0e39ec9150d543
             Width="200" Height="60"
             Margin="0, 150, 0, 0"
             Click="Button_Click">
@@ -32,16 +36,30 @@
             VerticalAlignment="Center"
             FontWeight="UltraBold"
             FontStyle="Italic"
+<<<<<<< HEAD
             Margin="0, 0, 0, 300"
         ></TextBlock>
 
         <TextBlock  Text="new text"
+=======
+            Margin="0, 0, 0, 300">
+            
+        </TextBlock>
+
+        <TextBlock  Text="9h đóng cửa"
+>>>>>>> 55ccb653863b31fce26fb3fa3f0e39ec9150d543
             FontSize="20"
             HorizontalAlignment="Center"
             VerticalAlignment="Center"
             FontWeight="UltraBold"
             FontStyle="Italic"
+<<<<<<< HEAD
             Margin="0, 0, 0, 240"
         ></TextBlock>
+=======
+            Margin="0, 0, 0, 300">   
+            
+        </TextBlock>
+>>>>>>> 55ccb653863b31fce26fb3fa3f0e39ec9150d543
     </Grid>
 </Window>
