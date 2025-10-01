@@ -43,7 +43,6 @@ namespace WPF_IT008_test
             //grid.Children.Add(txbl);
         }
 
-
         //private void Button_Click(object sender, RoutedEventArgs e)
         //{
         //    textBlock.Text = textBox.Text; // Gán nội dung của TextBox vào TextBlock khi ấn nút
@@ -107,14 +106,14 @@ namespace WPF_IT008_test
 
 
         //SCROLL VIEWER
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            //scvMain.ScrollToBottom(); // Scroll đến cuối cùng
+        //private void Button_Click(object sender, RoutedEventArgs e)
+        //{
+        //    //scvMain.ScrollToBottom(); // Scroll đến cuối cùng
 
-            //MessageBox.Show(scvMain.ContentVerticalOffset.ToString()); // Lấy vị trí hiện tại của thanh cuộn dọc
+        //    //MessageBox.Show(scvMain.ContentVerticalOffset.ToString()); // Lấy vị trí hiện tại của thanh cuộn dọc
 
-            //scvMain.ScrollToVerticalOffset(50); // Scroll ngang đến vị trí 50
-        }
+        //    //scvMain.ScrollToVerticalOffset(50); // Scroll ngang đến vị trí 50
+        //}
 
 
 
@@ -134,5 +133,13 @@ namespace WPF_IT008_test
         //        MessageBox.Show("Indeterminate");
         //    }
         //}
+
+        // ########## RADIO BUTTON ###############
+        //private void Button_Click(object sender, RoutedEventArgs e)
+        //{
+        //    // Nếu đang là hidden thì chuyển sang visible và ngược lại
+        //    borderMain.Visibility = (borderMain.Visibility == Visibility.Hidden) ? Visibility.Visible : Visibility.Hidden;
+        //}
+
     }
 }
